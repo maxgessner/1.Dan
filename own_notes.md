@@ -1,11 +1,15 @@
 # Nage no Kata
+
 (Nage-no-kata = Form des Werfens)
 
 Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlignes.com/kata/nage-no-kata/}
 
-\newpage
+**Freier Fall: hinterer Fuß nach oben ziehen!!!**
+
+<div style="page-break-after: always"></div>
 
 ## Te Waza
+
 (Te-waza = Handwürfe)
 
 ---
@@ -23,6 +27,12 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 - 1 Bewegung
 - Abstand 2 Meter
 - Uke schräg
+- Tori: Tief gehen!!!
+- Uke: 
+    - Beim 3. Schritt Fuß ran ziehen, "nach vorne fallen"
+    - 1.Schritt ist ein halber!!!
+    - 1, 2, 3. Schritt klein, steif machen, "hüpfen"
+
 
 #### Kata Guruma
 (Kata = Schulter, auch: Form, Zeremonie; Guruma = Rad)
@@ -30,10 +40,12 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 ![](Bilder/Kata-guruma.jpg)
 
 - Uke: steif machen und "drauf hüpfen"
+- Tori greift oberhalb des Ellenbogens
 
-\newpage
+<div style="page-break-after: always"></div>
 
 ## Koshi Waza
+
 (Koshi-waza = Hüftetechniken)
 
 
@@ -43,6 +55,11 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 ![](Bilder/Uki-goshi.jpg)
 
 - Uke weit auf die Beine beim Schlag
+- Uke darf Tori nicht auflaufen lassen!
+- **Wichtig:** Uke schlägt gerade!
+- Toris 1. Schritt kommt **mit** Ukes 2. Schritt
+- Uke gibt beim 1. Schritt den Arm zum Greifen
+- Uke läuft weiter!
 
 #### Harai Goshi
 (Harai = fegen, mähen; Goshi = Hüfte)
@@ -50,8 +67,16 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 ![](Bilder/Harai-goshi.jpg)
 
 - Uke Füße parallel
+- Tori:
+    - 1.Schritt
+    - 2.Schritt (Rücken greifen)
+    - 3.Schritt (Ansatz)
+    - Wurf
+
+- Aufheben!!! (Standard Harai Goshi Ansatz)
 
 #### Tsuri Komi Goshi
+
 (Tsuri-komi = Hebezug, herumziehen; Komi = ziehen, drehen; Goshi = Hüfte)
 
 ![](Bilder/Tsuri-komi-goshi.jpg)
@@ -60,7 +85,7 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 - Uke letzter Schritt halb, Fuß nachziehen
 - Abfolge: 3 Schritte, Eindrehen, Werfen
 
-\newpage
+<div style="page-break-after: always"></div>
 
 ## Ashi Waza
 (Ashi = Bein; Waza = Technik)
@@ -86,7 +111,7 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 
 ![](Bilder/Uchi-mata.jpg)
 
-\newpage
+<div style="page-break-after: always"></div>
 
 ## Yoko Sutemi Waza
 (Yoko-sutemi-waza = seitliche Körperwürfe)
@@ -113,9 +138,10 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 
 ![](Bilder/Uki-waza.jpg)
 
-\newpage
+<div style="page-break-after: always"></div>
 
 ## Masutemi Waza
+
 (Masutemi = gerade, "gerader Rücken", Waza = Technik)
 
 
@@ -127,6 +153,7 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 - **Mattenrand-Situation**
 - Griff, beide rechts vor, 3 Schritte, Block (Uke), umgreifen (Doppel-Revert-Griff)
 - Tori zieht Uke um, bzw. möchte Uke umziehen, Uke kommt mit rechtem Bein vor -> Wurf
+- Uke kommt rechts weit vor (kurz vor dem Wurf)
 
 
 #### Ura Nage
@@ -149,3 +176,4 @@ Gifs -> [https://www.judoenlignes.com/kata/nage-no-kata/]{https://www.judoenlign
 - Uke: 1, 2, 3 ran, rechtes Bein vor (vgl. Tomoe Nage)
 - Tori: greifen, Schritt, Fuß ran + rein + runter, Wurf
 - Tori: Knie zusammen!!!
+- Tonne zwischen Uke und Tori
